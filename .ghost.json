@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://czium.ghost.io",
+    "contentApiKey": "efc3cfcd96857838e582e99425"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://czium.ghost.io",
+    "contentApiKey": "efc3cfcd96857838e582e99425"
   }
 }
